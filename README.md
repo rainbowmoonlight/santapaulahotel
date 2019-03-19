@@ -1,5 +1,5 @@
 # santapaulahotel
-Santa Paula Hotel is a Responsive Website Application created with HTML and CSS with sticky navigation bar.
+Santa Paula Hotel is a Responsive Website Application created with HTML and CSS.
 
 <img src="img/santapaulahotel01.jpg"> 
 <img src="img/santapaulahotel02.jpg"> 
